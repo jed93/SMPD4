@@ -1,0 +1,86 @@
+                      levelName priority
+1  Zakup lodowki                      NA
+2   ¦--Wydajnosc                      NA
+3   ¦   ¦--HB PC 1030                 NA
+4   ¦   ¦--Ezetil E32M                NA
+5   ¦   ¦--Ezetil E26M                NA
+6   ¦   ¦--T30 Electra                NA
+7   ¦   ¦--Ezetil E28M                NA
+8   ¦   ¦--Ezetil C-C E24             NA
+9   ¦   ¦--Ezetil E40M                NA
+10  ¦   ¦--T25 Electra                NA
+11  ¦   ¦--Ezetil EZC45               NA
+12  ¦   ¦--Ezetil COOLCAN 10/12       NA
+13  ¦   ¦--Sencor SCM 4700BL          NA
+14  ¦   ¦--Gio`Style Shiver 40        NA
+15  ¦   ¦--Gio`Style Bravo 25         NA
+16  ¦   ¦--Sencor SCM 2025            NA
+17  ¦   ¦--Gio`Style GS3+ 30          NA
+18  ¦   ¦--Sencor SCM 3033RD          NA
+19  ¦   ¦--HB PC 1010                 NA
+20  ¦   ¦--Sencor SCM 1025            NA
+21  ¦   ¦--Ardes AR5I04               NA
+22  ¦   °--Sencor SCM 3033BL          NA
+23  ¦--Jakosc                         NA
+24  ¦   ¦--HB PC 1030                 NA
+25  ¦   ¦--Ezetil E32M                NA
+26  ¦   ¦--Ezetil E26M                NA
+27  ¦   ¦--T30 Electra                NA
+28  ¦   ¦--Ezetil E28M                NA
+29  ¦   ¦--Ezetil C-C E24             NA
+30  ¦   ¦--Ezetil E40M                NA
+31  ¦   ¦--T25 Electra                NA
+32  ¦   ¦--Ezetil EZC45               NA
+33  ¦   ¦--Ezetil COOLCAN 10/12       NA
+34  ¦   ¦--Sencor SCM 4700BL          NA
+35  ¦   ¦--Gio`Style Shiver 40        NA
+36  ¦   ¦--Gio`Style Bravo 25         NA
+37  ¦   ¦--Sencor SCM 2025            NA
+38  ¦   ¦--Gio`Style GS3+ 30          NA
+39  ¦   ¦--Sencor SCM 3033RD          NA
+40  ¦   ¦--HB PC 1010                 NA
+41  ¦   ¦--Sencor SCM 1025            NA
+42  ¦   ¦--Ardes AR5I04               NA
+43  ¦   °--Sencor SCM 3033BL          NA
+44  ¦--Styl                           NA
+45  ¦   ¦--HB PC 1030                 NA
+46  ¦   ¦--Ezetil E32M                NA
+47  ¦   ¦--Ezetil E26M                NA
+48  ¦   ¦--T30 Electra                NA
+49  ¦   ¦--Ezetil E28M                NA
+50  ¦   ¦--Ezetil C-C E24             NA
+51  ¦   ¦--Ezetil E40M                NA
+52  ¦   ¦--T25 Electra                NA
+53  ¦   ¦--Ezetil EZC45               NA
+54  ¦   ¦--Ezetil COOLCAN 10/12       NA
+55  ¦   ¦--Sencor SCM 4700BL          NA
+56  ¦   ¦--Gio`Style Shiver 40        NA
+57  ¦   ¦--Gio`Style Bravo 25         NA
+58  ¦   ¦--Sencor SCM 2025            NA
+59  ¦   ¦--Gio`Style GS3+ 30          NA
+60  ¦   ¦--Sencor SCM 3033RD          NA
+61  ¦   ¦--HB PC 1010                 NA
+62  ¦   ¦--Sencor SCM 1025            NA
+63  ¦   ¦--Ardes AR5I04               NA
+64  ¦   °--Sencor SCM 3033BL          NA
+65  °--Cena                           NA
+66      ¦--HB PC 1030                 NA
+67      ¦--Ezetil E32M                NA
+68      ¦--Ezetil E26M                NA
+69      ¦--T30 Electra                NA
+70      ¦--Ezetil E28M                NA
+71      ¦--Ezetil C-C E24             NA
+72      ¦--Ezetil E40M                NA
+73      ¦--T25 Electra                NA
+74      ¦--Ezetil EZC45               NA
+75      ¦--Ezetil COOLCAN 10/12       NA
+76      ¦--Sencor SCM 4700BL          NA
+77      ¦--Gio`Style Shiver 40        NA
+78      ¦--Gio`Style Bravo 25         NA
+79      ¦--Sencor SCM 2025            NA
+80      ¦--Gio`Style GS3+ 30          NA
+81      ¦--Sencor SCM 3033RD          NA
+82      ¦--HB PC 1010                 NA
+83      ¦--Sencor SCM 1025            NA
+84      ¦--Ardes AR5I04               NA
+85      °--Sencor SCM 3033BL          NA
